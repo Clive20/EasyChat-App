@@ -16,3 +16,7 @@ WhatsApp Clone is an app to provide users with facilities such as Chatting, Shar
 ![Screenshot 2023-03-08 185457](https://github.com/Clive20/EasyChat-App/assets/74508019/5363852f-fbad-4591-914c-a86ccab5f4cd)
 ![Screenshot 2023-03-08 190434](https://github.com/Clive20/EasyChat-App/assets/74508019/a77ea587-f33c-4588-a444-d800a97cac4e)
 ![Screenshot 2023-03-08 213616](https://github.com/Clive20/EasyChat-App/assets/74508019/3952fc38-ae02-4e88-bba8-febf73b5e83d)
+![Screenshot 2023-03-10 043421](https://github.com/Clive20/EasyChat-App/assets/74508019/b4c17adb-1b5e-416d-80c6-b5acfe8499e3)
+![Screenshot 2023-03-10 043518](https://github.com/Clive20/EasyChat-App/assets/74508019/a489f46f-d668-4566-bb8f-5818e0abc5a6)
+
+
